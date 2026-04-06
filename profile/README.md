@@ -10,19 +10,19 @@ and business system integrations.
 
 - **Home & Building Automation** — design, installation, and programming
   of intelligent control systems for residential and commercial properties
-  - **Software Development** — custom applications, modules, and integrations
-    built to solve real operational problems
-    - **Business Integrations** — ERP and payment workflow integrations
-      built on platforms including Odoo
-      - **Infrastructure & Tooling** — self-hosted services, containerised
-        deployments, and internal tooling for operational efficiency
+- **Software Development** — custom applications, modules, and integrations
+  built to solve real operational problems
+- **Business Integrations** — ERP and payment workflow integrations
+  built on platforms including Odoo
+- **Infrastructure & Tooling** — self-hosted services, containerised
+  deployments, and internal tooling for operational efficiency
 
-        ## Products & Custom Work
+## Products & Custom Work
 
-        We develop and sell commercial software products alongside bespoke
-        development engagements. Our open-source repositories represent a
-        selection of our public work.
+We develop and sell commercial software products alongside bespoke
+development engagements. Our open-source repositories represent a
+selection of our public work.
 
-        ## Contact
+## Contact
 
-        [macrohat.co.uk](https://macrohat.co.uk) · [macrohat.io](https://macrohat.io)
+[macrohat.co.uk](https://macrohat.co.uk) · [macrohat.io](https://macrohat.io)
